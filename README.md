@@ -89,4 +89,14 @@ celery -A app.task worker -l info
 ```
 
 
-(https://www.youtube.com/watch?v=QZQZQZQZQZQ)[https://www.youtube.com/watch?v=QZQZQZQZQZQ]
+![img-1](https://raw.githubusercontent.com/Ojitos369/celery-base/main/readme_media/img-1.png)  
+![img-2](https://raw.githubusercontent.com/Ojitos369/celery-base/main/readme_media/img-2.png)  
+![img-3](https://raw.githubusercontent.com/Ojitos369/celery-base/main/readme_media/img-3.png)  
+![img-4](https://raw.githubusercontent.com/Ojitos369/celery-base/main/readme_media/img-4.png)  
+![img-5](https://raw.githubusercontent.com/Ojitos369/celery-base/main/readme_media/img-5.png)  
+![img-6](https://raw.githubusercontent.com/Ojitos369/celery-base/main/readme_media/img-6.png)  
+![img-7](https://raw.githubusercontent.com/Ojitos369/celery-base/main/readme_media/img-7.png)  
+![img-8](https://raw.githubusercontent.com/Ojitos369/celery-base/main/readme_media/img-8.png)  
+![img-9](https://raw.githubusercontent.com/Ojitos369/celery-base/main/readme_media/img-9.png)  
+![img-10](https://raw.githubusercontent.com/Ojitos369/celery-base/main/readme_media/img-10.png)  
+![img-11](https://raw.githubusercontent.com/Ojitos369/celery-base/main/readme_media/img-11.png)  
